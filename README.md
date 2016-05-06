@@ -1,8 +1,7 @@
 # discordian-quotes
-# Source: http://www.kbuxton.com/discordia/discordianquotes.html
 
 *Discordian Quotes*
-
+Source: http://www.kbuxton.com/discordia/discordianquotes.html
 
 Give a monkey a brain and he'll swear he's the center of the universe.
 A man's a man all his life; a woman's sexy until she's your wife!
