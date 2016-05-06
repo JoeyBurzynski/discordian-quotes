@@ -1,6 +1,7 @@
 # discordian-quotes
 
 *Discordian Quotes*
+
 Source: http://www.kbuxton.com/discordia/discordianquotes.html
 
 Give a monkey a brain and he'll swear he's the center of the universe.
