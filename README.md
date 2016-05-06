@@ -1,4 +1,5 @@
-# discordian-quotes  // http://www.kbuxton.com/discordia/discordianquotes.html
+# discordian-quotes
+# Source: http://www.kbuxton.com/discordia/discordianquotes.html
 
 *Discordian Quotes*
 
